@@ -8,9 +8,9 @@
     "John Gravois <jgravois@esri.com> (http://johngravois.com)"
   ],
   "dependencies": {
-    "esri-leaflet": "^2.0.0",
-    "leaflet": "^1.0.0",
-    "leaflet.markercluster": "^1.0.0"
+    "esri-leaflet": "^3.0.4",
+    "leaflet": "^1.7.1",
+    "leaflet.markercluster": "^1.5.3"
   },
   "devDependencies": {
     "@rollup/plugin-json": "^4.0.3",

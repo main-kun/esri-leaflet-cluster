@@ -1,4 +1,4 @@
-/* esri-leaflet-cluster - v2.1.0 - Tue Feb 15 2022 11:13:49 GMT+0300 (Moscow Standard Time)
+/* esri-leaflet-cluster - v2.1.0 - Tue Feb 15 2022 13:25:57 GMT+0300 (Moscow Standard Time)
  * Copyright (c) 2022 Environmental Systems Research Institute, Inc.
  * Apache-2.0 */
 (function (global, factory) {
@@ -16,9 +16,9 @@
   	"John Gravois <jgravois@esri.com> (http://johngravois.com)"
   ];
   var dependencies = {
-  	"esri-leaflet": "^2.0.0",
-  	leaflet: "^1.0.0",
-  	"leaflet.markercluster": "^1.0.0"
+  	"esri-leaflet": "^3.0.4",
+  	leaflet: "^1.7.1",
+  	"leaflet.markercluster": "^1.5.3"
   };
   var devDependencies = {
   	"@rollup/plugin-json": "^4.0.3",
