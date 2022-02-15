@@ -1,7 +1,8 @@
 import { setOptions, GeoJSON, markerClusterGroup } from 'leaflet';
 import { FeatureManager } from 'esri-leaflet';
-export { version as VERSION } from '../package.json';
+import packageInfo from '../package.json';
 
+export var VERSION = packageInfo.version;
 export var FeatureLayer = FeatureManager.extend({
 
   statics: {
